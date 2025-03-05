@@ -33,13 +33,6 @@ This is a simple calculator program written in Java that can perform basic arith
 2. Choose an operation (+, -, *, /).
 3. The result will be displayed on the screen.
 
-## Example Output
-```
-Enter first number: 10
-Enter second number: 5
-Choose operation (+, -, *, /): *
-Result: 50
-```
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request.
